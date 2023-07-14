@@ -21,4 +21,7 @@ class Student(models.Model):
     
     class Meta:
         db_table = "student"
+
+# class New_test(self):
+#     pass
         
