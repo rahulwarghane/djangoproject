@@ -79,3 +79,6 @@ from django.db import connection
 # cursor.execute("select * from student where name= 'A'")
 # data = cursor.fetchall() 
 # print(data)
+
+
+# print("modifications")

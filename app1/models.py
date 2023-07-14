@@ -25,3 +25,5 @@ class Student(models.Model):
 # class New_test(self):
 #     pass
         
+# def new_stud(models.Model):
+#     height = 

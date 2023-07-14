@@ -12,8 +12,9 @@ def welcome_func(request):
     # return render(request,"home.html")
     return render(request,"home2.html")
 
-import requests
-def call_get_studs(request):
 
 
-    
+
+# import requests
+# # def call_get_studs(request):
+# #     pass
